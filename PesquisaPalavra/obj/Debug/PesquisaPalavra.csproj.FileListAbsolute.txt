@@ -1,0 +1,6 @@
+c:\users\aranha\documents\visual studio 2013\Projects\PesquisaPalavra\PesquisaPalavra\bin\Debug\PesquisaPalavra.exe.config
+c:\users\aranha\documents\visual studio 2013\Projects\PesquisaPalavra\PesquisaPalavra\obj\Debug\PesquisaPalavra.csprojResolveAssemblyReference.cache
+c:\users\aranha\documents\visual studio 2013\Projects\PesquisaPalavra\PesquisaPalavra\bin\Debug\PesquisaPalavra.exe
+c:\users\aranha\documents\visual studio 2013\Projects\PesquisaPalavra\PesquisaPalavra\bin\Debug\PesquisaPalavra.pdb
+c:\users\aranha\documents\visual studio 2013\Projects\PesquisaPalavra\PesquisaPalavra\obj\Debug\PesquisaPalavra.exe
+c:\users\aranha\documents\visual studio 2013\Projects\PesquisaPalavra\PesquisaPalavra\obj\Debug\PesquisaPalavra.pdb
